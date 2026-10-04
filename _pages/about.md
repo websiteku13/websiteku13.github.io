@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Selamat datang di… tunggu, ini tempat apa? Oh iya, website kita!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Selamat datang di… tunggu, ini tempat apa? Oh iya, website kita!
-
 Website Pribadi Patrick!
 ======
 “Pemujaan yang berlebihan terhadap website ini tidaklah sehat!”
