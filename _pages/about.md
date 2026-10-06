@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Selamat datang di… tunggu, ini tempat apa? Oh iya, website kita!"
+title: "Selamat datang di… tunggu, ini tempat apa? Oh iya, website Patrick!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Website Pribadi Patrick!
-======
 “Pemujaan yang berlebihan terhadap website ini tidaklah sehat!”
 Tapi mumpung kamu sudah di sini, silakan klik apa saja yang kamu mau. Kalau bingung harus ngapain, kita bisa rebahan saja di bawah batu bareng-bareng!
 
