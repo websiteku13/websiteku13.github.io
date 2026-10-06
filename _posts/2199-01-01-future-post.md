@@ -10,4 +10,4 @@ tags:
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
 
-Don't forget $1+2=3$
+Don't forget $1+2=3$ and $\frac{1}{2}+\frac{1}{3}=\frac{5}{6}$
